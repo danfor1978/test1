@@ -1,0 +1,9 @@
+total 16
+drwxrwxr-x. 3 danfor danfor 103 Apr 26 04:46 .
+drwxrwxr-x. 4 danfor danfor 117 Apr 26 03:15 ..
+-rw-rw-r--. 1 danfor danfor  14 Apr 26 03:52 file1.txt
+-rw-rw-r--. 1 danfor danfor  13 Apr 26 04:36 file2.txt
+-rw-rw-r--. 1 danfor danfor  13 Apr 26 04:43 file3.txt
+-rw-rw-r--. 1 danfor danfor   0 Apr 26 04:46 file5.txt
+drwxrwxr-x. 8 danfor danfor 166 Apr 26 04:45 .git
+-rw-rw-r--. 1 danfor danfor   8 Apr 26 03:22 README.md
